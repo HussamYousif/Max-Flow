@@ -1,0 +1,16 @@
+Clean up code.
+
+implement min [done]
+
+implement splitvertices.
+
+implement a disjoint vertex path[current work].
+
+implement a method that takes two sets of source and sink nodes and connects them to a dummy source and sink.
+
+Implementation 8.2: thrm 8.5, thrm 8.12, thrm 814
+               8.3:
+
+TODO FIX segmentation fault at Graph.h/Graph.cpp
+
+
